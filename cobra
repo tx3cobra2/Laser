@@ -67,7 +67,8 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" group-title="MALAYSIA",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest/scale-to-width-down/293?cb=20190111152445",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 tvg-id="Astro Warna.my" tvg-name="AstroWarna.my" tvg-logo=https://i.postimg.cc/L4chmgTD/download-80.png" group-title="MALAYSIA" ,Astro Warna 
@@ -1160,6 +1161,7 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="Astro Ria.my" tvg-name="Astro" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="Malaysia",Astro Ria Backup
 http://198.16.106.61:8277/streams/d/Ria/playlist.m3u8
+<!--//;;http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="" tvg-logo="https://www.pngix.com/pngfile/middle/289-2898461_logo-of-tv3-tv3-malaysia-logo-png-transparent.png" tvg-url="" group-title="Malaysia",TV3 
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="" tvg-logo="https://www.pngix.com/pngfile/middle/289-2898461_logo-of-tv3-tv3-malaysia-logo-png-transparent.png" tvg-url="" group-title="Malaysia",TV3 Backup 
