@@ -437,6 +437,17 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/150/in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies3",MOVIES GROUP 8
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 
+///// Hindi /////
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="BFlixHD" tvg-name="BFlixHD" tvg-logo="https://i.postimg.cc/PfwJ92zT/bflix.png" group-title="Hindi",BFlix HD
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Nmgmncc/B4-U-KADAK.png" group-title="Hindi",B4U KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="Hindi",BollyOne HD (CH251)
+http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 
 ///// Knowledge /////
 
